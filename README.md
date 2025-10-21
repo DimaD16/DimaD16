@@ -20,8 +20,9 @@ I build Discord bots, and love working at the intersection of aviation tech and 
 - ⚙️ **Developer** | Node.js, JavaScript, Discord.js, API integration | Always learning and sharing code!
 - 📚 **Student** | Mathematics, Physics & Chemistry and English
 
-<a href="https://my.flightradar24.com/DDimaa"><img src="https://banners-my.flightradar24.com/DDimaa.png" alt="My Flightdiary.net profile" /></a>
+---
 
+<a href="https://my.flightradar24.com/DDimaa"><img src="https://banners-my.flightradar24.com/DDimaa.png" alt="My Flightdiary.net profile" /></a>
 
 ## 🛠️ Skills
 
