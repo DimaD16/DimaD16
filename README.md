@@ -10,10 +10,6 @@
 
 I build Discord bots, and love working at the intersection of aviation tech and programming.
 
----
-
-<a href="https://war.ukraine.ua/" target="_blank"><img alt="" title="" src="https://www.cybersecurity-help.cz/upload/rk/0f9/99qobd6dffbog2u365ag1fugryv2mpp4.jpg" width="360" height="209" style="border:0;"></a>
-
 ## 🚀 About Me
 
 - ✈️ **BIA-certified** aviation geek | Building [AeroBot](https://discord.com/application-directory/1201584733092577501) (flight tracking, METAR/weather, Airports, more) 
