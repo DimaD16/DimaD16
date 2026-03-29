@@ -29,10 +29,6 @@ I build Discord bots, and love working at the intersection of aviation tech and 
 - **Programming**: JavaScript (Node.js, Discord.js), Python (basics), API integration, HTML/CSS
 - **Tools**: GitHub, WSL, Visual Studio Code
 
-## 📈 GitHub Stats
-
-![Dimitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
 ## 📫 Contact Me
 
 - Discord: `d.ima`
