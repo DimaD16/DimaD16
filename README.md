@@ -12,9 +12,8 @@ I build Discord bots, and love working at the intersection of aviation tech and 
 
 ## 🚀 About Me
 
-- ✈️ **BIA-certified** aviation geek | Building [AeroBot](https://discord.com/application-directory/1201584733092577501) (flight tracking, METAR/weather, Airports, more) 
+- ✈️ **Aviation geek** | Building [AeroBot](https://discord.com/application-directory/1201584733092577501) (flight tracking, METAR/weather, Airports, more) 
 - ⚙️ **Developer** | Node.js, JavaScript, Discord.js, API integration | Always learning and sharing code!
-- 📚 **Student** | Mathematics, Physics & Chemistry and English
 
 ---
 
